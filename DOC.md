@@ -5,6 +5,5 @@ last updated yyyy-mm-dd for version 0.1
 
 ## backend
 ### item ids
-> stuff
 `item1`
 `item2`

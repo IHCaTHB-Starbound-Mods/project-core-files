@@ -1,9 +1,6 @@
 # sbmod-
 #######
 # changelog
-+ addition
-* change
-- removal
 
 vur
 +
