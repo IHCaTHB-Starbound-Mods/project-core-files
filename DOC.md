@@ -1,9 +1,10 @@
 # sbmod-
 ---
 # documentation
-last updated 2017-01-28 for version 0.1
+last updated yyyy-mm-dd for version 0.1
 
 ## backend
 ### item ids
+> stuff
 `item1`
 `item2`
