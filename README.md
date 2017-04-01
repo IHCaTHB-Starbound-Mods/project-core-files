@@ -8,7 +8,7 @@ See also [ATTRIBUTION.md], [CHANGELOG.md], [DOC.md], and [_metadata].
 
 You can contact the author on the official Starbound forums [MEGATHREAD].
 
-[_previewimage]: https://github.com/IsaacHart/sbmod-rwcfix/blob/master/_previewimage
+[_previewimage]: _previewimage
 [MIT license]: LICENSE
 [ATTRIBUTION.md]: ATTRIBUTION.md
 [CHANGELOG.md]: CHANGELOG.md
