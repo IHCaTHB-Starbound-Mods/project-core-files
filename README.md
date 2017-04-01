@@ -6,7 +6,7 @@ See also [CHANGELOG.md], [DOC.md], and [_metadata].
 
 You can contact the author on the official Starbound forums [MEGATHREAD].
 
-![_previewimage][_previewimage]
+![_previewimage]
 
 [MIT license]: LICENSE
 [CHANGELOG.md]: CHANGELOG.md
