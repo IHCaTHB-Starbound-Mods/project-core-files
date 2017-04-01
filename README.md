@@ -6,6 +6,8 @@ See also [CHANGELOG.md], [DOC.md], and [_metadata].
 
 You can contact the author on the official Starbound forums [MEGATHREAD].
 
+![http://community.playstarbound.com/data/avatars/m/714/714236.jpg]
+
 [MIT license]: LICENSE
 [CHANGELOG.md]: CHANGELOG.md
 [DOC.md]: DOC.md
