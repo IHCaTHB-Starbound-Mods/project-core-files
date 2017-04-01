@@ -13,4 +13,4 @@ You can contact the author on the official Starbound forums [MEGATHREAD].
 [DOC.md]: DOC.md
 [_metadata]: _metadata
 [MEGATHREAD]: http://community.playstarbound.com/threads/124193/
-[_previewimage]: http://community.playstarbound.com/data/avatars/m/714/714236.jpg
+[_previewimage]: https://github.com/IsaacHart/sbmod-rwcfix/blob/master/_previewimage
