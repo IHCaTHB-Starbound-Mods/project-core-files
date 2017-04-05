@@ -11,7 +11,7 @@ You can contact the author on the official Starbound forums [MEGATHREAD].
 [_previewimage]: _previewimage
 [MIT license]: LICENSE
 [ATTRIBUTION.md]: ATTRIBUTION.md
-[CHANGELOG.md]: CHANGELOG.md
+[CHANGELOG.md]: ../master/CHANGELOG.md
 [DOC.md]: DOC.md
 [_metadata]: _metadata
 [MEGATHREAD]: http://community.playstarbound.com/threads/124193/
