@@ -31,7 +31,7 @@ and viewers, like you.
 
 [IsaacHart]: https://github.com/IHCaTHB-Starbound-Workshop
 
-[Chucklefish]: www.chucklefish.org
+[Chucklefish]: http://www.chucklefish.org
 
 [Starbound]: http://playstarbound.com
 
