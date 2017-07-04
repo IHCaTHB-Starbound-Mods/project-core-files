@@ -23,7 +23,7 @@ and viewers, like you.
 
 [GitHub](https://github.com/)
 
-[http://chbrown.github.io/rfc6902/]
+http://chbrown.github.io/rfc6902/
 
 
 
