@@ -7,5 +7,7 @@ last updated yyyy-mm-dd for version 0.1
 `item1`
 `item2`
 
+---
+
 @license MIT
 @author IHCaTHB
