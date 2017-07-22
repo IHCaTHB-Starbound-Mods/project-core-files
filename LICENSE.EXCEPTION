@@ -1,8 +1,13 @@
 Unlicense:
 
 All text pieces of this project with an "@license UL" comment are released
-under the Unlicense. These are free and unencumbered files released into the
-public domain.
+under the Unlicense.
+
+All non-text pieces of this project indentified in ATTRIBUTION.md as being
+covered by the Unlicense are released under the Unlicense.
+
+The above defined are free and unencumbered files released into the public
+domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
